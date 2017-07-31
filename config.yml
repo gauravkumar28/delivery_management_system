@@ -1,0 +1,12 @@
+common: &default_configs
+  vicinity:
+    small: 5
+    medium: 10
+    large: 15
+    priority: [1, 2, 3]
+city:
+  bangalore:
+    vicinity:
+      small: 5
+      medium: 10
+      large: 15
